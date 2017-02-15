@@ -1,0 +1,26 @@
+{
+  "name": "textgoose",
+  "version": "0.0.1",
+  "description": "Mongoose pluging for full text search.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aberezkin/textgoose.git"
+  },
+  "keywords": [
+    "mongoose",
+    "text",
+    "full",
+    "text",
+    "search"
+  ],
+  "author": "Arkadii Berezkin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aberezkin/textgoose/issues"
+  },
+  "homepage": "https://github.com/aberezkin/textgoose#readme"
+}
