@@ -1,6 +1,6 @@
 {
   "name": "textgoose",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Mongoose pluging for full text search.",
   "main": "index.js",
   "scripts": {
